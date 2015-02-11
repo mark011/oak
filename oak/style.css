@@ -1,0 +1,285 @@
+.container {
+		position: relative; 
+		top: 0px; 
+		margin: 0 auto; 
+		display: block; 
+		width: 1250px; 
+		height: auto;
+}	
+
+
+
+#oak a {
+	margin-top: 50px;
+    display: inline-block;
+    font-size: 48px;
+    text-decoration: none;
+    font-family: Courier New;
+}
+
+#oak a:link {
+    color: black;
+}
+
+
+#oak a:visited {
+    color: black;
+}
+
+
+#oak a:hover {
+    color: #8e8e8e;
+}
+
+
+
+
+
+#home_id{
+	
+	display:inline-block;	
+	font-family: Kalinga;
+	font-size: 24px;
+}
+
+
+
+
+
+
+#menu a {
+	
+    font-size: 24px;
+    text-decoration: none;
+    font-family: Kalinga;
+}
+
+#menu a:link {
+    color: #353535;
+}
+
+
+#menu a:visited {
+    color: #353535;
+}
+
+
+#menu a:hover {
+    color: #8e8e8e;
+}
+
+#menu ul {
+	
+
+margin-top: -50px;
+
+    
+}
+
+#menu ul li {
+    
+    float: right;
+    display: inline;
+    padding-left: 30px;
+    
+}
+
+
+
+#body1 {
+	margin-top: 120px;
+	font-family: Dominik;
+	
+
+}
+
+#body1 p {
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+
+
+
+#smart a {
+	background: #a2efea;
+    font-size: 50px;
+    text-decoration: none;
+    
+}
+
+#smart a:link {
+    color: #ffffff;
+}
+
+
+#smart a:visited {
+    color: #ffffff;
+}
+
+
+#smart a:hover {
+  	background: #89d7d2;
+}
+
+
+
+#productive a {
+	background: #f7c93b;
+    font-size: 50px;
+    text-decoration: none;
+    
+}
+
+#productive a:link {
+    color: #ffffff;
+}
+
+
+#productive a:visited {
+    color: #ffffff;
+}
+
+
+#productive a:hover {
+  	background: #f99246;
+}
+
+
+
+
+
+#tab{
+	margin: auto;
+	width: 1200px;
+	text-align: center;
+}
+td{
+	padding: 15px;
+	font-family: Kalinga;
+	font-size: 34px;
+}
+
+
+#image_id a:link {
+    opacity: 1.0;
+}
+
+
+#image_id a:visited {
+    opacity: 1.0;
+}
+
+
+#image_id a:hover {
+  	opacity: 0.7;
+}
+
+
+
+
+#visit1 a {
+	background: #6ab0dc;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Kalinga;
+}
+
+
+
+#visit1 a:link {
+    color: #ffffff;
+}
+
+
+#visit1 a:visited {
+    color: #ffffff;
+}
+
+
+#visit1 a:hover {
+  	background: #7dcdff;
+}
+
+
+
+#blue1 {
+	text-align: center;
+}
+
+
+#body2 {
+	margin-top: 50px;
+	font-family: Kalinga;
+	font-size: 24px;
+	text-align: center;
+	font-size: 40px;
+	color: #9faaee;
+
+}
+
+
+#tab2{
+	margin-left: 100px;
+	font-family: Kalinga;
+	font-size: 20px;
+	text-decoration: none;
+	
+}
+
+#t1 a{
+	
+	font-family: Kalinga;
+	font-size: 20px;
+	text-decoration: none;
+	
+}
+
+#t1 a:link {
+    color: black;
+}
+
+
+#t1 a:visited {
+    color: black;
+}
+
+
+#t1 a:hover {
+    color: gray;
+}
+
+
+#t2 a{
+	
+	font-family: Kalinga;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#t2 a:link {
+    color: gray;
+}
+
+
+#t2 a:visited {
+    color: gray;
+}
+
+
+#t2 a:hover {
+    color: #c6d2d1;
+}
+
+
+#t3{
+	
+	font-family: Kalinga;
+	font-size: 18px;
+	text-decoration: none;
+	color: gray;
+}
+
+
+
